@@ -1,2 +1,1 @@
-# PreCourse-Henrry1
-Repositorio de prueba Precourse Henrry 
+Este pryecto es una prueba de como crear un repositorio y como clonarlo desde github a mi escritorio local 
